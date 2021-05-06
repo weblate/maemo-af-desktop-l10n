@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Ei voitu käynnistää"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – jatketaan"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Kuvasarja"
+
+msgid "home_ia_theme_prefix"
+msgstr "Teema"
+
+msgid "home_li_get_ovi"
+msgstr "Lisää sisältöä Ovi Kaupasta"
+
+msgid "home_li_no_images"
+msgstr "(ei kuvia)"
+
+msgid "home_me_change_background"
+msgstr "Muuta tausta"
+
+msgid "home_me_manage_views"
+msgstr "Työpöytänäkymät"
+
+msgid "home_me_select_bookmarks"
+msgstr "Lisää kirjanmerkki"
+
+msgid "home_me_select_contacts"
+msgstr "Lisää yhteystieto"
+
+msgid "home_me_select_shortcuts"
+msgstr "Lisää pikakuvake"
+
+msgid "home_me_select_widgets"
+msgstr "Lisää widget"
+
+msgid "home_ti_add_image"
+msgstr "Lisää kuva"
+
+msgid "home_ti_change_backgr"
+msgstr "Valitse taustakuva"
+
+msgid "home_ti_desktop_menu"
+msgstr "Työpöytävalikko"
+
+msgid "home_ti_manage_views"
+msgstr "Käytettävät työpöytänäkymät"
+
+msgid "home_ti_select_bookmark"
+msgstr "Lisää kirjanmerkki"
+
+msgid "home_ti_select_contact"
+msgstr "Lisää yhteystieto"
+
+msgid "home_ti_select_shortcut"
+msgstr "Lisää pikakuvake"
+
+msgid "home_ti_select_widgets"
+msgstr "Lisää widget"
+
+msgid "tana_ap_ovi_store"
+msgstr "Kauppa"
+
+msgid "tana_ap_user_guide"
+msgstr "Käyttöohje"
+
+msgid "tana_fi_applications"
+msgstr "Lisää…"
+
+msgid "tana_fi_authorization"
+msgstr "Tunnistuspyyntö"
+
+msgid "tana_fi_group_invitation"
+msgstr "Ryhmäpikaviestikutsu"
+
+msgid "tana_fi_invitation"
+msgstr "Keskusteluryhmäkutsu"
+
+msgid "tana_fi_missed_call"
+msgstr "Vastaamaton puhelu"
+
+msgid "tana_fi_reorder"
+msgstr "Valitse sovellus ja sen jälkeen uusi sijainti"
+
+msgid "tana_fi_unknown_number"
+msgstr "Tuntematon numero"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Tuntematon lähettäjä"
+
+msgid "tana_fi_voice_mail"
+msgstr "Vastaaja"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Vastaaja"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s vastaa"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s sammutettiin"
+
+msgid "tana_li_of_noapps"
+msgstr "(ei sovelluksia)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s ei vastaa.\n"
+"Suljetaanko sovellus?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Tämä ei ole Nokian ohjelmisto. Asennetaanko %s?"
+
+msgid "tana_nc_install_application"
+msgstr "Asenna %s?"
+
+msgid "tutor_widget"
+msgstr "Aloittaminen"

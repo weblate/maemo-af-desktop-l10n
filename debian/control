@@ -1,0 +1,119 @@
+Source: maemo-af-desktop-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: maemo-af-desktop-l10n-mr0
+Section: misc
+Architecture: all
+Provides: maemo-af-desktop-l10n-mr
+Depends: maemo-af-desktop-l10n-ruru, maemo-af-desktop-l10n-frfr, maemo-af-desktop-l10n-frca, maemo-af-desktop-l10n-dadk, maemo-af-desktop-l10n-itit, maemo-af-desktop-l10n-svse, maemo-af-desktop-l10n-nono, maemo-af-desktop-l10n-fifi, maemo-af-desktop-l10n-nlnl, maemo-af-desktop-l10n-enus, maemo-af-desktop-l10n-dede, maemo-af-desktop-l10n-esmx, maemo-af-desktop-l10n-eses, maemo-af-desktop-l10n-cscz, maemo-af-desktop-l10n-ptpt, maemo-af-desktop-l10n-engb, maemo-af-desktop-l10n-plpl
+Description: maemo-af-desktop marketing release package
+ This is a metapackage for maemo-af-desktop to pull all the l10n packages.
+ Application developers of maemo-af-desktop should depend on
+ "maemo-af-desktop-l10n-mr0 | maemo-af-desktop-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: maemo-af-desktop-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (cs_CZ)
+ Language files for cs_CZ maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (da_DK)
+ Language files for da_DK maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (de_DE)
+ Language files for de_DE maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (en_GB)
+ Language files for en_GB maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (en_US)
+ Language files for en_US maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (es_ES)
+ Language files for es_ES maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (es_MX)
+ Language files for es_MX maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (fi_FI)
+ Language files for fi_FI maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (fr_CA)
+ Language files for fr_CA maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (fr_FR)
+ Language files for fr_FR maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (it_IT)
+ Language files for it_IT maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (nl_NL)
+ Language files for nl_NL maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (no_NO)
+ Language files for no_NO maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (pl_PL)
+ Language files for pl_PL maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (pt_PT)
+ Language files for pt_PT maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (ru_RU)
+ Language files for ru_RU maemo-af-desktop.
+
+Package: maemo-af-desktop-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for maemo-af-desktop (sv_SE)
+ Language files for sv_SE maemo-af-desktop.

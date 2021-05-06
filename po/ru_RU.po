@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Не удается загрузить"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – возобновление"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Серия изображений"
+
+msgid "home_ia_theme_prefix"
+msgstr "Тема"
+
+msgid "home_li_get_ovi"
+msgstr "Получите больше от Ovi Store"
+
+msgid "home_li_no_images"
+msgstr "(нет изображений)"
+
+msgid "home_me_change_background"
+msgstr "Изменить фон"
+
+msgid "home_me_manage_views"
+msgstr "Управление видами"
+
+msgid "home_me_select_bookmarks"
+msgstr "Добавить закладку"
+
+msgid "home_me_select_contacts"
+msgstr "Добавить контакт"
+
+msgid "home_me_select_shortcuts"
+msgstr "Добавить ярлык"
+
+msgid "home_me_select_widgets"
+msgstr "Добавить виджет"
+
+msgid "home_ti_add_image"
+msgstr "Добавить изображение"
+
+msgid "home_ti_change_backgr"
+msgstr "Выбрать фоновое изображение"
+
+msgid "home_ti_desktop_menu"
+msgstr "Меню Рабочий стол"
+
+msgid "home_ti_manage_views"
+msgstr "Активировать виды"
+
+msgid "home_ti_select_bookmark"
+msgstr "Добавить закладку"
+
+msgid "home_ti_select_contact"
+msgstr "Добавить контакт"
+
+msgid "home_ti_select_shortcut"
+msgstr "Добавить ярлык"
+
+msgid "home_ti_select_widgets"
+msgstr "Добавить виджет"
+
+msgid "tana_ap_ovi_store"
+msgstr "Магазин"
+
+msgid "tana_ap_user_guide"
+msgstr "Рук. пользов."
+
+msgid "tana_fi_applications"
+msgstr "Дополнительно…"
+
+msgid "tana_fi_authorization"
+msgstr "Запрос на авторизацию"
+
+msgid "tana_fi_group_invitation"
+msgstr "Приглашение в групповой чат"
+
+msgid "tana_fi_invitation"
+msgstr "Приглашение в чат-комнату"
+
+msgid "tana_fi_missed_call"
+msgstr "Пропущенный вызов"
+
+msgid "tana_fi_reorder"
+msgstr "Выберите прил-е и коснитесь нового положения"
+
+msgid "tana_fi_unknown_number"
+msgstr "Неизвестный номер"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Неизвестный отправитель"
+
+msgid "tana_fi_voice_mail"
+msgstr "Голосовая почта"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Голосовая почта"
+
+msgid "tana_ib_apkil_responded"
+msgstr "Приложение %s ответило"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s закрыто"
+
+msgid "tana_li_of_noapps"
+msgstr "(нет приложений)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s не отвечает.\n"
+"Закрыть приложение?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Это ПО не от Nokia. Установить %s?"
+
+msgid "tana_nc_install_application"
+msgstr "Установить %s?"
+
+msgid "tutor_widget"
+msgstr "Начало работы"

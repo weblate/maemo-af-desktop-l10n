@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Kan ikke laste inn"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – gjenopptar"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Bildesett"
+
+msgid "home_ia_theme_prefix"
+msgstr "Tema"
+
+msgid "home_li_get_ovi"
+msgstr "Hent mer fra Ovi Store"
+
+msgid "home_li_no_images"
+msgstr "(ingen bilder)"
+
+msgid "home_me_change_background"
+msgstr "Endre bakgrunn"
+
+msgid "home_me_manage_views"
+msgstr "Administrer visninger"
+
+msgid "home_me_select_bookmarks"
+msgstr "Legg til bokmerke"
+
+msgid "home_me_select_contacts"
+msgstr "Legg til kontakt"
+
+msgid "home_me_select_shortcuts"
+msgstr "Legg til snarvei"
+
+msgid "home_me_select_widgets"
+msgstr "Legg til miniprogram"
+
+msgid "home_ti_add_image"
+msgstr "Legg til bilde"
+
+msgid "home_ti_change_backgr"
+msgstr "Velg bakgrunnsbilde"
+
+msgid "home_ti_desktop_menu"
+msgstr "Skrivebordsmeny"
+
+msgid "home_ti_manage_views"
+msgstr "Aktiver visninger"
+
+msgid "home_ti_select_bookmark"
+msgstr "Legg til bokmerke"
+
+msgid "home_ti_select_contact"
+msgstr "Legg til kontakt"
+
+msgid "home_ti_select_shortcut"
+msgstr "Legg til snarvei"
+
+msgid "home_ti_select_widgets"
+msgstr "Legg til miniprogram"
+
+msgid "tana_ap_ovi_store"
+msgstr "Butikk"
+
+msgid "tana_ap_user_guide"
+msgstr "Brukerhåndbok"
+
+msgid "tana_fi_applications"
+msgstr "Flere..."
+
+msgid "tana_fi_authorization"
+msgstr "Godkjenningsforespørsel"
+
+msgid "tana_fi_group_invitation"
+msgstr "Invitasjon til gruppenettprat"
+
+msgid "tana_fi_invitation"
+msgstr "Invitasjon til nettpratrom"
+
+msgid "tana_fi_missed_call"
+msgstr "Tapt anrop"
+
+msgid "tana_fi_reorder"
+msgstr "Velg et program, og trykk på en ny plassering"
+
+msgid "tana_fi_unknown_number"
+msgstr "Skjult nummer"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Ukjent avsender"
+
+msgid "tana_fi_voice_mail"
+msgstr "Talepost"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Talepost"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s svarte"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s ble avsluttet"
+
+msgid "tana_li_of_noapps"
+msgstr "(ingen programmer)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s svarer ikke.\n"
+"Lukke programmet?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Denne programvaren er ikke fra Nokia. Installere %s?"
+
+msgid "tana_nc_install_application"
+msgstr "Installere %s?"
+
+msgid "tutor_widget"
+msgstr "Komme i gang"

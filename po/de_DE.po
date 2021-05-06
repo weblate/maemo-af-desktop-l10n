@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20100208121231\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Laden nicht möglich"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – wird fortgesetzt"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Bilderserie"
+
+msgid "home_ia_theme_prefix"
+msgstr "Thema"
+
+msgid "home_li_get_ovi"
+msgstr "Mehr vom Ovi Store"
+
+msgid "home_li_no_images"
+msgstr "(Keine Bilder)"
+
+msgid "home_me_change_background"
+msgstr "Hintergrund ändern"
+
+msgid "home_me_manage_views"
+msgstr "Ansichten verwalten"
+
+msgid "home_me_select_bookmarks"
+msgstr "Lesezeichen hinzufügen"
+
+msgid "home_me_select_contacts"
+msgstr "Kontakt hinzufügen"
+
+msgid "home_me_select_shortcuts"
+msgstr "Shortcut hinzufügen"
+
+msgid "home_me_select_widgets"
+msgstr "Widget hinzufügen"
+
+msgid "home_ti_add_image"
+msgstr "Bild hinzufügen"
+
+msgid "home_ti_change_backgr"
+msgstr "Hintergrundbild auswählen"
+
+msgid "home_ti_desktop_menu"
+msgstr "Desktop-Menü"
+
+msgid "home_ti_manage_views"
+msgstr "Ansichten aktivieren"
+
+msgid "home_ti_select_bookmark"
+msgstr "Lesezeichen hinzufügen"
+
+msgid "home_ti_select_contact"
+msgstr "Kontakt hinzufügen"
+
+msgid "home_ti_select_shortcut"
+msgstr "Shortcut hinzufügen"
+
+msgid "home_ti_select_widgets"
+msgstr "Widget hinzufügen"
+
+msgid "tana_ap_ovi_store"
+msgstr "Store"
+
+msgid "tana_ap_user_guide"
+msgstr "Benutzerhandb."
+
+msgid "tana_fi_applications"
+msgstr "Mehr…"
+
+msgid "tana_fi_authorization"
+msgstr "Autorisierungsanforderung"
+
+msgid "tana_fi_group_invitation"
+msgstr "Gruppen-Chat-Einladung"
+
+msgid "tana_fi_invitation"
+msgstr "Chat-Room-Einladung"
+
+msgid "tana_fi_missed_call"
+msgstr "Verpasster Anruf"
+
+msgid "tana_fi_reorder"
+msgstr "Wählen Sie ein Anwendung u. dann d. neue Position"
+
+msgid "tana_fi_unknown_number"
+msgstr "Unbekannte Nummer"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Unbekannter Absender"
+
+msgid "tana_fi_voice_mail"
+msgstr "Voicemail"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Voicemail"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s reagiert"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s beendet"
+
+msgid "tana_li_of_noapps"
+msgstr "(Keine Programme)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s reagiert nicht.\n"
+"Programm schließen?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Diese Software kommt nicht von Nokia. %s installieren?"
+
+msgid "tana_nc_install_application"
+msgstr "%s installieren?"
+
+msgid "tutor_widget"
+msgstr "Erste Schritte"
