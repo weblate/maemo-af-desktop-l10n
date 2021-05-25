@@ -1,0 +1,131 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20091013120339\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010-03-27 22:16+0100\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Nemožno nahrať"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – obnovovanie"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Obrázková séria"
+
+msgid "home_ia_theme_prefix"
+msgstr "Téma"
+
+msgid "home_li_get_ovi"
+msgstr "Získať viac z obchodu Ovi"
+
+msgid "home_li_no_images"
+msgstr "(žiadne obrázky)"
+
+msgid "home_me_change_background"
+msgstr "Zmeniť pozadie"
+
+msgid "home_me_manage_views"
+msgstr "Spravovať plochy"
+
+msgid "home_me_select_bookmarks"
+msgstr "Pridať záložku"
+
+msgid "home_me_select_contacts"
+msgstr "Pridať kontakt"
+
+msgid "home_me_select_shortcuts"
+msgstr "Pridať zástupcu"
+
+msgid "home_me_select_widgets"
+msgstr "Pridať widget"
+
+msgid "home_ti_add_image"
+msgstr "Pridať obrázok"
+
+msgid "home_ti_change_backgr"
+msgstr "Zvoliť obrázok pozadia"
+
+msgid "home_ti_desktop_menu"
+msgstr "Ponuka plochy"
+
+msgid "home_ti_manage_views"
+msgstr "Aktivovať plochy"
+
+msgid "home_ti_select_bookmark"
+msgstr "Pridať záložku"
+
+msgid "home_ti_select_contact"
+msgstr "Pridať kontakt"
+
+msgid "home_ti_select_shortcut"
+msgstr "Pridať zástupcu"
+
+msgid "home_ti_select_widgets"
+msgstr "Pridať widget"
+
+msgid "tana_ap_ovi_store"
+msgstr "Obchod"
+
+msgid "tana_ap_user_guide"
+msgstr "Užív. príručka"
+
+msgid "tana_fi_applications"
+msgstr "Viac…"
+
+msgid "tana_fi_authorization"
+msgstr "Požiadavka autorizácie"
+
+msgid "tana_fi_group_invitation"
+msgstr "Pozvanie na skupinový chat"
+
+msgid "tana_fi_invitation"
+msgstr "Pozvanie do chatovacej miestnosti"
+
+msgid "tana_fi_missed_call"
+msgstr "Zmeškané hovory"
+
+msgid "tana_fi_reorder"
+msgstr "Zvolte aplikáciu a klepnite na novú polohu"
+
+msgid "tana_fi_unknown_number"
+msgstr "Neznáme číslo"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Neznámy odosielateľ"
+
+msgid "tana_fi_voice_mail"
+msgstr "Hlasová pošta"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Hlasová pošta"
+
+msgid "tana_ib_apkil_responded"
+msgstr "Aplikácia %s odpovedala"
+
+msgid "tana_ib_application_crashed"
+msgstr "Aplikácia %s bola ukončená"
+
+msgid "tana_li_of_noapps"
+msgstr "(žiadne aplikácie)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s neodpovedá.\n"
+"Zavrieť aplikáciu?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Tento softvér neposkytuje spoločnosť Nokia. Nainštalovať %s?"
+
+msgid "tana_nc_install_application"
+msgstr "Nainštalovať %s?"
+
+msgid "tutor_widget"
+msgstr "Začíname"
