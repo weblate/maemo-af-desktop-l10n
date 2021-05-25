@@ -1,0 +1,201 @@
+#
+# This file is part of maemo-af-desktop-l10n-public
+#
+# Copyright (C) 2006-2007 Nokia Corporation. All rights reserved.
+#
+# Contact: Mohammed Hassan <mohammed.2.hassan@nokia.com>
+#
+# Redistribution and use in source and binary forms, with or without modification,
+# are permitted provided that the following conditions are met:
+#
+#     Redistributions of source code must retain the above copyright notice,
+#     this list of conditions and the following disclaimer.
+#     Redistributions in binary form must reproduce the above copyright notice,
+#     this list of conditions and the following disclaimer in the documentation and/or
+#     other materials provided with the distribution.
+#     Neither the name of Nokia Corporation nor the names of its contributors may be used
+#     to endorse or promote products derived from this software without specific prior written
+#     permission.
+#
+# THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR
+# IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY
+# AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER
+# OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+# CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+# SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+# THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR
+# OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+# POSSIBILITY OF SUCH DAMAGE.
+#
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20091013120339\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.09.21 10:05+0300\n"
+"PO-Revision-Date: 2010-05-29 16:05+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+# Category
+msgid "tana_fi_applications"
+msgstr "Daha fazla.."
+
+msgid "tana_fi_group_invitation"
+msgstr "Grup sohbeti daveti"
+
+msgid "tana_fi_invitation"
+msgstr "Sohbet odası daveti"
+
+# Empty sub group
+msgid "tana_li_of_noapps"
+msgstr "(uygulama yok)"
+
+# Ovi Store shortcut
+msgid "tana_ap_ovi_store"
+msgstr "Mağaza"
+
+msgid "tana_ap_user_guide"
+msgstr "Kılavuz"
+
+# Incoming event text field item
+msgid "tana_fi_missed_call"
+msgstr "Cevapsız arama"
+
+msgid "tana_fi_reorder"
+msgstr "Bir uygulama seçin ve yeni konumuna dokunun"
+
+# Incoming event text field item
+msgid "tana_fi_voice_mail"
+msgstr "Seslimesaj"
+
+# Incoming event text field item
+msgid "tana_fi_authorization"
+msgstr "Yetki isteği"
+
+# Incoming event text field item
+msgid "tana_fi_unknown_number"
+msgstr "Bilinmeyen numara"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Bilinmeyen gönderen"
+
+# Incoming event text field item
+msgid "tana_fi_voicemailbox"
+msgstr "Seslimesaj"
+
+# Task killing confirmation note.
+# See section 3.9 for functional details of task killing.
+# If Task killing confirmation note was launched, but the reasons for launching the dialog have become obsolete (task can be closed or topped, as requested by user) the dialog should be immediately closed.
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s cevap vermiyor.\n"
+"Uygulama kapatılsın mı?"
+
+# Install task confirmation note, where %s is the name of the task.
+# This confirmation note should be displayed when the user selects a currently not installed task from the task menu (such as Skype or Gizmo).
+msgid "tana_nc_install_application"
+msgstr "%s kurulsun mu?"
+
+# Install task confirmation note, where %s is the name of the task, and it is an 3rd party task, not provided by Nokia.
+# This confirmation note should be displayed when the user selects a currently not installed task from the task menu (such as Skype or Gizmo).
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Bu yazılım Nokia kaynaklı değildir. %s kurulsun mu?"
+
+# Task killing
+# Banner displayed if task that user tried to close, could not be closed (and the task killing dialog was opened), suddenly responds and is closed, and therefore the task killing dialog is closed.
+# Banner is also displayed if task that user tried to switch to, could not be topped (and the task killing dialog was opened), suddenly responds and is topped, and therefore the task killing dialog is closed.
+msgid "tana_ib_apkil_responded"
+msgstr "%s cevap verdi"
+
+# Task crashed banner, where %s is the name of the task
+msgid "tana_ib_application_crashed"
+msgstr "%s kapandı"
+
+# Resuming background killed task banner, where %s is the name of the task
+msgid "ckct_ib_application_resuming"
+msgstr "%s – sürdürülüyor"
+
+# Error note displayed if the task startup fails
+msgid "ckct_ib_application_loading_failed"
+msgstr "Yüklenemiyor"
+
+# Title of the desktop menu
+msgid "home_ti_desktop_menu"
+msgstr "Masaüstü menüsü"
+
+# Home menu item
+msgid "home_me_select_widgets"
+msgstr "Araç ekle"
+
+# Home menu item
+msgid "home_me_select_contacts"
+msgstr "Kişi ekle"
+
+# Home menu item
+msgid "home_me_select_bookmarks"
+msgstr "Bağlantı Ekle"
+
+# Home menu item
+msgid "home_me_select_shortcuts"
+msgstr "Kısayol Ekle"
+
+# Home menu item
+msgid "home_me_change_background"
+msgstr "Arkaplanı değiştir"
+
+# Home menu item
+msgid "home_me_manage_views"
+msgstr "Masaüstlerini yönet"
+
+# Title of the Add widget –dialog
+msgid "home_ti_select_widgets"
+msgstr "Araç ekle"
+
+# Title of the Add contact –dialog
+msgid "home_ti_select_contact"
+msgstr "Kişi ekle"
+
+# Title of the Add bookmark –dialog
+msgid "home_ti_select_bookmark"
+msgstr "Bağlantı ekle"
+
+# Title of the Add shortcut –dialog
+msgid "home_ti_select_shortcut"
+msgstr "Kısayol ekle"
+
+# Title of Set background image –dialog
+msgid "home_ti_change_backgr"
+msgstr "Arkaplan resmi seç"
+
+# Prefix for theme background image set
+msgid "home_ia_theme_prefix"
+msgstr "Tema"
+
+msgid "home_li_get_ovi"
+msgstr "Ovi Mağaza'dan daha fazlasını al"
+
+# Prefix for pre-installed background image set
+msgid "home_ia_imageset_prefix"
+msgstr "Resim seti"
+
+# Title of Add image –dialog
+msgid "home_ti_add_image"
+msgstr "Resim ekle"
+
+# List item in Add image –dialog if the folder is empty
+msgid "home_li_no_images"
+msgstr "(resim yok)"
+
+# Title of Manage views –dialog
+msgid "home_ti_manage_views"
+msgstr "Masaüstlerini aktifleştir"
+
+# Tutorial
+msgid "tutor_widget"
+msgstr "Başlarken"
+
