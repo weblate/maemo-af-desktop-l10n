@@ -1,0 +1,176 @@
+#
+# Eugeniy Meshcheryakov <eugen@debian.org>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20091013120339\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2011-01-31 02:30+0100\n"
+"Last-Translator: Eugeniy Meshcheryakov <eugen@debian.org>\n"
+"Language-Team: Ukrainian <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"X-Generator: Lokalize 1.0\n"
+
+msgctxt "ckct_ib_application_loading_failed"
+msgid "Unable to load"
+msgstr "Неможливо завантажити"
+
+msgctxt "ckct_ib_application_resuming"
+msgid "%s – resuming"
+msgstr "%s – відновлення"
+
+msgctxt "home_ia_imageset_prefix"
+msgid "Image set"
+msgstr "Набір зображень"
+
+msgctxt "home_ia_theme_prefix"
+msgid "Theme"
+msgstr "Тема"
+
+msgctxt "home_li_get_ovi"
+msgid "Get more from Ovi Store"
+msgstr "Отримати більше з Ovi Store"
+
+msgctxt "home_li_no_images"
+msgid "(no images)"
+msgstr "(немає зображень)"
+
+msgctxt "home_me_change_background"
+msgid "Change background"
+msgstr "Змінити фон"
+
+msgctxt "home_me_manage_views"
+msgid "Manage views"
+msgstr "Керувати виглядами"
+
+msgctxt "home_me_select_bookmarks"
+msgid "Add bookmark"
+msgstr "Додати закладку"
+
+msgctxt "home_me_select_contacts"
+msgid "Add contact"
+msgstr "Додати контакт"
+
+msgctxt "home_me_select_shortcuts"
+msgid "Add shortcut"
+msgstr "Додати скорочення"
+
+msgctxt "home_me_select_widgets"
+msgid "Add widget"
+msgstr "Додати віджет"
+
+msgctxt "home_ti_add_image"
+msgid "Add image"
+msgstr "Додати зображення"
+
+msgctxt "home_ti_change_backgr"
+msgid "Choose background image"
+msgstr "Виберіть зображення фону"
+
+msgctxt "home_ti_desktop_menu"
+msgid "Desktop menu"
+msgstr "Меню робочого столу"
+
+msgctxt "home_ti_manage_views"
+msgid "Activate views"
+msgstr "Активувати вигляди"
+
+msgctxt "home_ti_select_bookmark"
+msgid "Add bookmark"
+msgstr "Додати закладку"
+
+msgctxt "home_ti_select_contact"
+msgid "Add contact"
+msgstr "Додати контакт"
+
+msgctxt "home_ti_select_shortcut"
+msgid "Add shortcut"
+msgstr "Додати скорочення"
+
+msgctxt "home_ti_select_widgets"
+msgid "Add widget"
+msgstr "Додати віджет"
+
+msgctxt "tana_ap_ovi_store"
+msgid "Store"
+msgstr ""
+
+msgctxt "tana_ap_user_guide"
+msgid "User Guide"
+msgstr ""
+
+msgctxt "tana_fi_applications"
+msgid "More…"
+msgstr "Більше…"
+
+msgctxt "tana_fi_authorization"
+msgid "Authorization request"
+msgstr "Запит авторизації"
+
+msgctxt "tana_fi_group_invitation"
+msgid "Group chat invitation"
+msgstr ""
+
+msgctxt "tana_fi_invitation"
+msgid "Chat room invitation"
+msgstr ""
+
+msgctxt "tana_fi_missed_call"
+msgid "Missed call"
+msgstr "Пропущений дзвінок"
+
+msgctxt "tana_fi_reorder"
+msgid "Select an application then tap on a new position"
+msgstr ""
+
+msgctxt "tana_fi_unknown_number"
+msgid "Unknown number"
+msgstr "Невідомий номер"
+
+msgctxt "tana_fi_unknown_sender"
+msgid "Unknown sender"
+msgstr "Невідомий відправник"
+
+msgctxt "tana_fi_voice_mail"
+msgid "Voicemail"
+msgstr "Голосова пошта"
+
+msgctxt "tana_fi_voicemailbox"
+msgid "Voicemail"
+msgstr "Голосова пошта"
+
+msgctxt "tana_ib_apkil_responded"
+msgid "%s responded"
+msgstr ""
+
+msgctxt "tana_ib_application_crashed"
+msgid "%s shut down"
+msgstr ""
+
+msgctxt "tana_li_of_noapps"
+msgid "(no applications)"
+msgstr "(немає додатків)"
+
+msgctxt "tana_nc_apkil_notresponding"
+msgid ""
+"%s is not responding.\n"
+"Close application?"
+msgstr ""
+"%s не відповідає.\n"
+"Закрити додаток?"
+
+msgctxt "tana_nc_install_3rd_party_application"
+msgid "This software is not from Nokia. Install %s?"
+msgstr "Це програмне забезпечення не від Nokia. Встановити %s?"
+
+msgctxt "tana_nc_install_application"
+msgid "Install %s?"
+msgstr "Встановити %s?"
+
+msgctxt "tutor_widget"
+msgid "Get started"
+msgstr ""
+
