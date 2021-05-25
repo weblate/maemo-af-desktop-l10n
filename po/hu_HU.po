@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20091013120339\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-02-23 23:10+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Nem tölthető be"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – folytatás"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Kép készlet"
+
+msgid "home_ia_theme_prefix"
+msgstr "Téma"
+
+msgid "home_li_get_ovi"
+msgstr "Mégtöbb az Ovi Áruházból"
+
+msgid "home_li_no_images"
+msgstr "(nincsenek képek)"
+
+msgid "home_me_change_background"
+msgstr "Háttér beállítása"
+
+msgid "home_me_manage_views"
+msgstr "Asztalok kezelése"
+
+msgid "home_me_select_bookmarks"
+msgstr "Könyvjelző hozzáadása"
+
+msgid "home_me_select_contacts"
+msgstr "Névjegy hozzáadása"
+
+msgid "home_me_select_shortcuts"
+msgstr "Parancsikon hozzáadása"
+
+msgid "home_me_select_widgets"
+msgstr "Widget hozzáadása"
+
+msgid "home_ti_add_image"
+msgstr "Kép hozzáadása"
+
+msgid "home_ti_change_backgr"
+msgstr "Háttérkép kiválasztása"
+
+msgid "home_ti_desktop_menu"
+msgstr "Asztal menü"
+
+msgid "home_ti_manage_views"
+msgstr "Asztalok aktiválása"
+
+msgid "home_ti_select_bookmark"
+msgstr "Könyvjelző hozzáadása"
+
+msgid "home_ti_select_contact"
+msgstr "Névjegy hozzáadása"
+
+msgid "home_ti_select_shortcut"
+msgstr "Parancsikon hozzáadása"
+
+msgid "home_ti_select_widgets"
+msgstr "Widget hozzáadása"
+
+msgid "tana_ap_ovi_store"
+msgstr "Ovi áruház"
+
+msgid "tana_ap_user_guide"
+msgstr "N900 útmutató"
+
+msgid "tana_fi_applications"
+msgstr "Több…"
+
+msgid "tana_fi_authorization"
+msgstr "Engedélyezési kérelem"
+
+msgid "tana_fi_missed_call"
+msgstr "Nem fogadott hívás"
+
+msgid "tana_fi_unknown_number"
+msgstr "Ismeretlen szám"
+
+msgid "tana_fi_voice_mail"
+msgstr "Hangüzenet"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Hangüzenet"
+
+msgid "tana_fi_group_invitation"
+msgstr "Csoportos chat meghívó"
+
+msgid "tana_fi_invitation"
+msgstr "Chat szoba meghívó"
+
+msgid "tana_fi_reorder"
+msgstr "Válassz ki egy ikont, majd add meg az új pozíciót"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Ismeretlen feladó"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s válaszolt"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s leállt"
+
+msgid "tana_li_of_noapps"
+msgstr "(nincsenek alkalmazások)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+"%s nem válaszol.\n"
+"Bezárod az alkalmazást?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Ezt az alkalmazást nem a Nokia adta ki: %s Telepíted?"
+
+msgid "tana_nc_install_application"
+msgstr "Telepíted: %s?"
+
+msgid "tutor_widget"
+msgstr "Kezdetek"
+
