@@ -1,0 +1,133 @@
+# 
+# Translators:
+# Stanislau  <kasrkin@mail.by>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2012-04-11 13:52+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "Не атрымалася загрузіць"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – аднаўленне"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Усталёўка"
+
+msgid "home_ia_theme_prefix"
+msgstr "Тэма"
+
+msgid "home_li_get_ovi"
+msgstr "Атрымаць больш з крамы Ovi"
+
+msgid "home_li_no_images"
+msgstr "(Няма выяў)"
+
+msgid "home_me_change_background"
+msgstr "Змяніць фон"
+
+msgid "home_me_manage_views"
+msgstr "Кіраванне выглядамі"
+
+msgid "home_me_select_bookmarks"
+msgstr "Дадаць закладку"
+
+msgid "home_me_select_contacts"
+msgstr "Дадаць кантакт"
+
+msgid "home_me_select_shortcuts"
+msgstr "Дадаць скарот"
+
+msgid "home_me_select_widgets"
+msgstr "Дадаць фішку"
+
+msgid "home_ti_add_image"
+msgstr "Дадаць выяву"
+
+msgid "home_ti_change_backgr"
+msgstr "Абярыце фон"
+
+msgid "home_ti_desktop_menu"
+msgstr "Меню стальніцы"
+
+msgid "home_ti_manage_views"
+msgstr "Актываваць выгляды"
+
+msgid "home_ti_select_bookmark"
+msgstr "Дадаць закладку"
+
+msgid "home_ti_select_contact"
+msgstr "Дадаць кантакт"
+
+msgid "home_ti_select_shortcut"
+msgstr "Дадаць скарот"
+
+msgid "home_ti_select_widgets"
+msgstr "Дадаць фішку"
+
+msgid "tana_ap_ovi_store"
+msgstr "Крама"
+
+msgid "tana_ap_user_guide"
+msgstr "Дапаможнік карыстальніка"
+
+msgid "tana_fi_applications"
+msgstr "Болей..."
+
+msgid "tana_fi_authorization"
+msgstr "Просьба аўтарызацыі"
+
+msgid "tana_fi_group_invitation"
+msgstr "Запрашэнне ў групавы чат"
+
+msgid "tana_fi_invitation"
+msgstr "Запрашэнне ў чат"
+
+msgid "tana_fi_missed_call"
+msgstr "Прапушчаныя выклікі"
+
+msgid "tana_fi_reorder"
+msgstr "Абярыце прыкладанне і націсніце на новую пазіцыю"
+
+msgid "tana_fi_unknown_number"
+msgstr "Невядомы нумар"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Невядомы адпраўнік"
+
+msgid "tana_fi_voice_mail"
+msgstr "Галасавая пошта"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Галасавая пошта"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s адказала"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s адключэнне"
+
+msgid "tana_li_of_noapps"
+msgstr "(няма прыкладанняў)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr "%s не адказвае. Закрыць прыкладанне?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Гэта прыкладанне не ад Nokia. Усталяваць %s ?"
+
+msgid "tana_nc_install_application"
+msgstr "Усталяваць %s?"
+
+msgid "tutor_widget"
+msgstr "Пачатак працы"
