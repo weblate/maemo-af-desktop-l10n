@@ -1,0 +1,132 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "無法載入"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – 正在回復"
+
+msgid "home_ia_imageset_prefix"
+msgstr "圖片集"
+
+msgid "home_ia_theme_prefix"
+msgstr "佈景主題"
+
+msgid "home_li_get_ovi"
+msgstr "從 Ovi 商店獲得更多"
+
+msgid "home_li_no_images"
+msgstr "(沒有圖片檔案)"
+
+msgid "home_me_change_background"
+msgstr "更改背景"
+
+msgid "home_me_manage_views"
+msgstr "管理檢視"
+
+msgid "home_me_select_bookmarks"
+msgstr "新增書籤"
+
+msgid "home_me_select_contacts"
+msgstr "新增聯絡人"
+
+msgid "home_me_select_shortcuts"
+msgstr "選擇捷徑"
+
+msgid "home_me_select_widgets"
+msgstr "新增 Widget"
+
+msgid "home_ti_add_image"
+msgstr "新增圖片"
+
+msgid "home_ti_change_backgr"
+msgstr "選擇背景圖片"
+
+msgid "home_ti_desktop_menu"
+msgstr "桌面選單"
+
+msgid "home_ti_manage_views"
+msgstr "啟用檢視"
+
+msgid "home_ti_select_bookmark"
+msgstr "新增書籤"
+
+msgid "home_ti_select_contact"
+msgstr "新增聯絡人"
+
+msgid "home_ti_select_shortcut"
+msgstr "新增捷徑"
+
+msgid "home_ti_select_widgets"
+msgstr "新增 Widget"
+
+msgid "tana_ap_ovi_store"
+msgstr "商店"
+
+msgid "tana_ap_user_guide"
+msgstr "使用指南"
+
+msgid "tana_fi_applications"
+msgstr "更多應用程式"
+
+msgid "tana_fi_authorization"
+msgstr "請求授權"
+
+msgid "tana_fi_group_invitation"
+msgstr "群組聊天邀請"
+
+msgid "tana_fi_invitation"
+msgstr "聊天室邀請"
+
+msgid "tana_fi_missed_call"
+msgstr "未接來電"
+
+msgid "tana_fi_reorder"
+msgstr "選取一個應用程式並點擊新的位置"
+
+msgid "tana_fi_unknown_number"
+msgstr "未知號碼"
+
+msgid "tana_fi_unknown_sender"
+msgstr "不明寄件者"
+
+msgid "tana_fi_voice_mail"
+msgstr "語音信箱"
+
+msgid "tana_fi_voicemailbox"
+msgstr "語音信箱"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s 已回應"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s 關閉"
+
+msgid "tana_li_of_noapps"
+msgstr "(沒有應用程式)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr "%s 無回應.\n關閉應用程式?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "這個軟體並非由諾基亞提供的, 是否安裝 %s?"
+
+msgid "tana_nc_install_application"
+msgstr "安裝 %s?"
+
+msgid "tutor_widget"
+msgstr "使用入門"
