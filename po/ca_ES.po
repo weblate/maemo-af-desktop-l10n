@@ -1,0 +1,132 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "No s'ha pogut carregar"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – continua"
+
+msgid "home_ia_imageset_prefix"
+msgstr "Grup d'imatges"
+
+msgid "home_ia_theme_prefix"
+msgstr "Tema"
+
+msgid "home_li_get_ovi"
+msgstr "Obtén més de l'Ovi Store"
+
+msgid "home_li_no_images"
+msgstr "(no hi ha imatges)"
+
+msgid "home_me_change_background"
+msgstr "Canvia el fons"
+
+msgid "home_me_manage_views"
+msgstr "Gestiona les vistes"
+
+msgid "home_me_select_bookmarks"
+msgstr "Afegeix un preferit"
+
+msgid "home_me_select_contacts"
+msgstr "Afegeix un contacte"
+
+msgid "home_me_select_shortcuts"
+msgstr "Afegeix una drecera"
+
+msgid "home_me_select_widgets"
+msgstr "Afegeix un giny"
+
+msgid "home_ti_add_image"
+msgstr "Afegeix una imatge"
+
+msgid "home_ti_change_backgr"
+msgstr "Tria la imatge de fons"
+
+msgid "home_ti_desktop_menu"
+msgstr "Menú d'escriptori"
+
+msgid "home_ti_manage_views"
+msgstr "Activa les vistes"
+
+msgid "home_ti_select_bookmark"
+msgstr "Afegeix un preferit"
+
+msgid "home_ti_select_contact"
+msgstr "Afegeix un contacte"
+
+msgid "home_ti_select_shortcut"
+msgstr "Afegeix una drecera"
+
+msgid "home_ti_select_widgets"
+msgstr "Afegeix un giny"
+
+msgid "tana_ap_ovi_store"
+msgstr "Botiga"
+
+msgid "tana_ap_user_guide"
+msgstr "Guia d'usuari"
+
+msgid "tana_fi_applications"
+msgstr "Més..."
+
+msgid "tana_fi_authorization"
+msgstr "Sol·licitud d'autorització"
+
+msgid "tana_fi_group_invitation"
+msgstr "Invitació a grup de xat"
+
+msgid "tana_fi_invitation"
+msgstr "Invitació a sala de xat"
+
+msgid "tana_fi_missed_call"
+msgstr "Trucada perduda"
+
+msgid "tana_fi_reorder"
+msgstr "Tria una aplicació i toca a una nova posició"
+
+msgid "tana_fi_unknown_number"
+msgstr "Número desconegut"
+
+msgid "tana_fi_unknown_sender"
+msgstr "Remitent desconegut"
+
+msgid "tana_fi_voice_mail"
+msgstr "Correu de veu"
+
+msgid "tana_fi_voicemailbox"
+msgstr "Bústia de veu"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s ha contestat"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s s'ha aturat"
+
+msgid "tana_li_of_noapps"
+msgstr "(no hi ha aplicacions)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr "%s no respon.\nTanqueu l'aplicació?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "Aquest programari no és de Nokia. Instal·leu %s?"
+
+msgid "tana_nc_install_application"
+msgstr "S'instal·la %s?"
+
+msgid "tutor_widget"
+msgstr "Comenceu"
