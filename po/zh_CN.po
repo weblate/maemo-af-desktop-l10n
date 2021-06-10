@@ -1,0 +1,132 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:31+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr "加载失败"
+
+msgid "ckct_ib_application_resuming"
+msgstr "%s – 正在恢复"
+
+msgid "home_ia_imageset_prefix"
+msgstr "图片集"
+
+msgid "home_ia_theme_prefix"
+msgstr "主题"
+
+msgid "home_li_get_ovi"
+msgstr "从Ovi商店获得更多"
+
+msgid "home_li_no_images"
+msgstr "(没有图片)"
+
+msgid "home_me_change_background"
+msgstr "更改壁纸"
+
+msgid "home_me_manage_views"
+msgstr "管理桌面"
+
+msgid "home_me_select_bookmarks"
+msgstr "添加书签"
+
+msgid "home_me_select_contacts"
+msgstr "添加联系人"
+
+msgid "home_me_select_shortcuts"
+msgstr "添加快捷方式"
+
+msgid "home_me_select_widgets"
+msgstr "添加widget"
+
+msgid "home_ti_add_image"
+msgstr "增加图片"
+
+msgid "home_ti_change_backgr"
+msgstr "更改壁纸"
+
+msgid "home_ti_desktop_menu"
+msgstr "桌面菜单"
+
+msgid "home_ti_manage_views"
+msgstr "启用桌面"
+
+msgid "home_ti_select_bookmark"
+msgstr "添加书签"
+
+msgid "home_ti_select_contact"
+msgstr "添加联系人"
+
+msgid "home_ti_select_shortcut"
+msgstr "添加快捷方式"
+
+msgid "home_ti_select_widgets"
+msgstr "添加widget"
+
+msgid "tana_ap_ovi_store"
+msgstr "Ovi商店"
+
+msgid "tana_ap_user_guide"
+msgstr "用户指南"
+
+msgid "tana_fi_applications"
+msgstr "更多…"
+
+msgid "tana_fi_authorization"
+msgstr "认证请求"
+
+msgid "tana_fi_group_invitation"
+msgstr "群聊邀请"
+
+msgid "tana_fi_invitation"
+msgstr "聊天室邀请"
+
+msgid "tana_fi_missed_call"
+msgstr "未接来电"
+
+msgid "tana_fi_reorder"
+msgstr "选择一个应用程序然后点击一个新的位置"
+
+msgid "tana_fi_unknown_number"
+msgstr "未知号码"
+
+msgid "tana_fi_unknown_sender"
+msgstr "未知发件人"
+
+msgid "tana_fi_voice_mail"
+msgstr "语音邮件"
+
+msgid "tana_fi_voicemailbox"
+msgstr "语音信箱"
+
+msgid "tana_ib_apkil_responded"
+msgstr "%s 反应"
+
+msgid "tana_ib_application_crashed"
+msgstr "%s 关闭"
+
+msgid "tana_li_of_noapps"
+msgstr "(没有程序)"
+
+msgid "tana_nc_apkil_notresponding"
+msgstr "%s没有响应.\n关闭该程序?"
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr "这个软件并非来自 Nokia. 安装 %s?"
+
+msgid "tana_nc_install_application"
+msgstr "安装 %s?"
+
+msgid "tutor_widget"
+msgstr "快速入门"
