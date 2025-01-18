@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: maemo-af-desktop 20100208121231\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "ckct_ib_application_loading_failed"
+msgstr ""
+
+msgid "ckct_ib_application_resuming"
+msgstr ""
+
+msgid "home_ia_imageset_prefix"
+msgstr ""
+
+msgid "home_ia_theme_prefix"
+msgstr ""
+
+msgid "home_li_get_ovi"
+msgstr ""
+
+msgid "home_li_no_images"
+msgstr ""
+
+msgid "home_me_change_background"
+msgstr ""
+
+msgid "home_me_manage_views"
+msgstr ""
+
+msgid "home_me_select_bookmarks"
+msgstr ""
+
+msgid "home_me_select_contacts"
+msgstr ""
+
+msgid "home_me_select_shortcuts"
+msgstr ""
+
+msgid "home_me_select_widgets"
+msgstr ""
+
+msgid "home_ti_add_image"
+msgstr ""
+
+msgid "home_ti_change_backgr"
+msgstr ""
+
+msgid "home_ti_desktop_menu"
+msgstr ""
+
+msgid "home_ti_manage_views"
+msgstr ""
+
+msgid "home_ti_select_bookmark"
+msgstr ""
+
+msgid "home_ti_select_contact"
+msgstr ""
+
+msgid "home_ti_select_shortcut"
+msgstr ""
+
+msgid "home_ti_select_widgets"
+msgstr ""
+
+msgid "tana_ap_ovi_store"
+msgstr ""
+
+msgid "tana_ap_user_guide"
+msgstr ""
+
+msgid "tana_fi_applications"
+msgstr ""
+
+msgid "tana_fi_authorization"
+msgstr ""
+
+msgid "tana_fi_group_invitation"
+msgstr ""
+
+msgid "tana_fi_invitation"
+msgstr ""
+
+msgid "tana_fi_missed_call"
+msgstr ""
+
+msgid "tana_fi_reorder"
+msgstr ""
+
+msgid "tana_fi_unknown_number"
+msgstr ""
+
+msgid "tana_fi_unknown_sender"
+msgstr ""
+
+msgid "tana_fi_voice_mail"
+msgstr ""
+
+msgid "tana_fi_voicemailbox"
+msgstr ""
+
+msgid "tana_ib_apkil_responded"
+msgstr ""
+
+msgid "tana_ib_application_crashed"
+msgstr ""
+
+msgid "tana_li_of_noapps"
+msgstr ""
+
+msgid "tana_nc_apkil_notresponding"
+msgstr ""
+
+msgid "tana_nc_install_3rd_party_application"
+msgstr ""
+
+msgid "tana_nc_install_application"
+msgstr ""
+
+msgid "tutor_widget"
+msgstr ""
